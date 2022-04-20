@@ -1,0 +1,3 @@
+[submodule "themes/cederberg"]
+	path = themes/cederberg
+	url = https://github.com/oscarcederberg/cederberg-theme

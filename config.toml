@@ -1,0 +1,10 @@
+baseURL = 'https://oscar.cederberg.xyz'
+languageCode = 'en-us'
+title = 'oscar.cederberg.xyz'
+theme = 'cederberg'
+
+[menu]
+  [[menu.main]]
+    name = 'home'
+    url = '/'
+    weight = -100
