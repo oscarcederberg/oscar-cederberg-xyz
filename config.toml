@@ -8,3 +8,7 @@ theme = 'cederberg'
     name = 'home'
     url = '/'
     weight = -100
+  [[menu.main]]
+    name = 'blog'
+    url = '/posts/'
+    weight = -90
