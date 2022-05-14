@@ -1,7 +1,10 @@
 baseURL = 'https://oscar.cederberg.xyz'
 languageCode = 'en-us'
-title = 'oscar.cederberg.xyz'
+title = 'oscarcederberg'
 theme = 'cederberg'
+
+[params]
+  subtitle = 'knös fnös in darkness'
 
 [menu]
   [[menu.main]]
